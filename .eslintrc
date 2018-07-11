@@ -1,0 +1,10 @@
+{
+  "extends": "standard",
+  "rules": {
+    "strict": 0,
+    "no-console": 0
+  },
+  "env" : {
+    "node" : true
+  }
+}
